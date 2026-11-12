@@ -1,0 +1,7 @@
+name:Alice
+Bob Smith
+no-delimiters-here
+city:Dundee
+one_ping_only
+key:value:pair
+tabs	are     here
